@@ -1,0 +1,16 @@
+{
+  "name": "json-parser-for-events-pages",
+  "version": "1.0.0",
+  "description": "A basic node app to aggregate all the Cork|Sec events",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

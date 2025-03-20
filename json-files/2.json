@@ -1,0 +1,1449 @@
+{
+  "data": {
+    "groupByUrlname": {
+      "id": "1",
+      "events": {
+        "totalCount": 137,
+        "pageInfo": {
+          "endCursor": "Mjg4NTI1Mjc4OjE2NjU1MTEyMDAwMDA=",
+          "hasNextPage": true,
+          "__typename": "PageInfo"
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "294055134",
+              "title": "Cork|Sec 121",
+              "eventUrl": "https://www.meetup.com/corksec/events/294055134/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nOur talks come from our community so if you have an idea for a topic (anything for 10-60 minutes) please email us at DefconCork@gmail.com . Whether you are an experienced presenter, or presenting for your first time - CorkSec is a great venue for it - and we are happy to help you prepare and mentor you.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**~~TALK 1: Trace Labs - Helping those who are lost - Gerard Barrett~~**\n~~Gerard helps to run a CTF group called Adorably Persistent Team who regularly contribute to Trace Labs events. Gerard will touch on the concept of OSINT and how it gets applied in a CTF for the event. The CTF runs on the premise of 'OsintForGood' where members of the public will crowdsource data points on open missing person cases which are then fed back into Law Enforcement. After appropriate sacrifices to the demo God's, there will be a short demo regarding it.~~\n\n**~~TALK 2: Business E-mail Compromise Part 1 : Detection, Analysis, Containment and Eradication - Paul Horgan~~**\n~~A real life case study of Business Email Compromise. Part 1 involves the detection, containment and eradication of an attacker. Part 2 will cover how to build back your security stronger to repel the attacks before they begin, and proactive steps you can take to secure the environment.~~",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-07-11T19:00:00+01:00",
+              "createdTime": "2023-06-08T01:32:29-04:00",
+              "endTime": "2023-07-11T21:00:00+01:00",
+              "going": {
+                "totalCount": 27,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1959359900",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1960436449",
+                      "member": {
+                        "id": "349157725",
+                        "name": "Nghia Mai",
+                        "memberPhoto": {
+                          "id": "308629485",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/1/4/d/highres_308629485.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1960778256",
+                      "member": {
+                        "id": "261064048",
+                        "name": "leandro acosta",
+                        "memberPhoto": {
+                          "id": "279745032",
+                          "source": "https://secure.meetupstatic.com/photos/member/6/1/c/8/highres_279745032.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1961226012",
+                      "member": {
+                        "id": "381581274",
+                        "name": "Pavlo",
+                        "memberPhoto": {
+                          "id": "313928357",
+                          "source": "https://secure.meetupstatic.com/photos/member/2/0/a/5/highres_313928357.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1961424767",
+                      "member": {
+                        "id": "291033694",
+                        "name": "Priya",
+                        "memberPhoto": {
+                          "id": "299565268",
+                          "source": "https://secure.meetupstatic.com/photos/member/b/0/d/4/highres_299565268.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483064",
+              "title": "Cork|Sec 120",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483064/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nOur talks come from our community so if you have an idea for a topic (anything for 10-60 minutes) please email us at DefconCork@gmail.com . Whether you are an experienced presenter, or presenting for your first time - CorkSec is a great venue for it - and we are happy to help you prepare and mentor you.\n\nDoors open at 19:00 with talks starting at 19:15.\n\nTALKS: TBC",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-06-13T19:00:00+01:00",
+              "createdTime": "2022-12-22T17:15:43-05:00",
+              "endTime": "2023-06-13T21:00:00+01:00",
+              "going": {
+                "totalCount": 26,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938837030",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1942814668",
+                      "member": {
+                        "id": "187287706",
+                        "name": "John Crowley",
+                        "memberPhoto": {
+                          "id": "316923277",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/c/d/highres_316923277.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1955721226",
+                      "member": {
+                        "id": "391751919",
+                        "name": "John McSweeney",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1955919736",
+                      "member": {
+                        "id": "381569950",
+                        "name": "Eoin Marron",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1955921108",
+                      "member": {
+                        "id": "255210327",
+                        "name": "Iris Silva",
+                        "memberPhoto": {
+                          "id": "277481887",
+                          "source": "https://secure.meetupstatic.com/photos/member/a/3/9/f/highres_277481887.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483063",
+              "title": "Cork|Sec 119",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483063/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Cyber Career Speaker Series: February - May 2023**\n\n* CorkSec, in conjunction with Cyber Ireland, is hosting a Cyber Career Speaker Series across 3 evenings in February, March & April 2023.\n* Each time we will chat with 3 panelists from security industry at different points in their careers, to help the audience understand more on their own potential paths in Security - finalising in April with those at the more senior stages of their careers.\n* Combined with one of CorkSecs traditional technical talks - the night promises to informative, diverse, inspiring and fun. Nothing is off the table! So Come along to hear interesting stories, pick up some tips and meet people from the security industry\n* Our panellists are: Louise MacIndoe (Logitech), Aidan O’Keeffe (Northern Trust), Richard Parker (Dell)\n\n**TALK 2 : Personal Desktop Security with Linux: Why, What and How to Use It - Andrew Kenneally**\nIn a similar vein to a previous talk on the awesomeness of PFSense, this talk will focus on bringing a more secure and free as in freedom approach to personal desktop / laptop security and use.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-05-09T19:00:00+01:00",
+              "createdTime": "2022-12-22T17:15:31-05:00",
+              "endTime": "2023-05-09T21:00:00+01:00",
+              "going": {
+                "totalCount": 42,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": true,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938837022",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1942814646",
+                      "member": {
+                        "id": "187287706",
+                        "name": "John Crowley",
+                        "memberPhoto": {
+                          "id": "316923277",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/c/d/highres_316923277.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1950273759",
+                      "member": {
+                        "id": "341521807",
+                        "name": "Alvaro",
+                        "memberPhoto": {
+                          "id": "307345761",
+                          "source": "https://secure.meetupstatic.com/photos/member/6/4/a/1/highres_307345761.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1952231674",
+                      "member": {
+                        "id": "158582772",
+                        "name": "Guoqing Chen",
+                        "memberPhoto": {
+                          "id": "264705523",
+                          "source": "https://secure.meetupstatic.com/photos/member/b/1/d/3/highres_264705523.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1952476539",
+                      "member": {
+                        "id": "381581274",
+                        "name": "Pavlo",
+                        "memberPhoto": {
+                          "id": "313928357",
+                          "source": "https://secure.meetupstatic.com/photos/member/2/0/a/5/highres_313928357.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483060",
+              "title": "Cork|Sec 118",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483060/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Cyber Career Speaker Series: February - April 2023**\n\n* CorkSec, in conjunction with Cyber Ireland, is hosting a Cyber Career Speaker Series across 3 evenings in February, March & April 2023.\n* Each time we will chat with 3 panelists from security industry at different points in their careers, to help the audience understand more on their own potential paths in Security - finalising in April with those at the more senior stages of their careers.\n* Combined with one of CorkSecs traditional technical talks - the night promises to informative, diverse, inspiring and fun. Nothing is off the table! So Come along to hear interesting stories, pick up some tips and meet people from the security industry\n* Our panellists are: Louise McIndoe (Logitech), Aidan O’Keeffe (Northern Trust), Richard Parker (Dell)\n\n**TALK 2 : Personal Desktop Security with Linux: Why, What and How to Use It - Andrew** **Kenneally**\nIn a similar vein to a previous talk on the awesomeness of PFSense, this talk will focus on bringing a more secure and free as in freedom approach to personal desktop / laptop security and use.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-04-11T19:00:00+01:00",
+              "createdTime": "2022-12-22T17:15:16-05:00",
+              "endTime": "2023-04-11T21:00:00+01:00",
+              "going": {
+                "totalCount": 25,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938837004",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1942814622",
+                      "member": {
+                        "id": "187287706",
+                        "name": "John Crowley",
+                        "memberPhoto": {
+                          "id": "316923277",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/c/d/highres_316923277.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1948992752",
+                      "member": {
+                        "id": "381569950",
+                        "name": "Eoin Marron",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1949039830",
+                      "member": {
+                        "id": "329996472",
+                        "name": "Mauro Silva",
+                        "memberPhoto": {
+                          "id": "304399651",
+                          "source": "https://secure.meetupstatic.com/photos/member/4/c/c/3/highres_304399651.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1949048962",
+                      "member": {
+                        "id": "372067779",
+                        "name": "Andrew Kenneally",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483055",
+              "title": "Cork|Sec 117",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483055/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Cyber Career Speaker Series: February - April 2023**\n\n* CorkSec, in conjunction with Cyber Ireland, is hosting a Cyber Career Speaker Series across 3 evenings in February, March & April 2023.\n* Each time we will chat with 3 panelists from security industry at different points in their careers, to help the audience understand more on their own potential paths in Security - continuing in March with those who have moved beyond the earliest stages of their careers.\n* Combined with one of CorkSecs traditional technical talks - the night promises to informative, diverse, inspiring and fun. Nothing is off the table! So Come along to hear interesting stories, pick up some tips and meet people from the security industry\n* Our panellists are: Vanda Badura @ McKesson, Megan Kearney @ eSentire, and Eoin Wickens @ Hidden Layer\n\n**TALK 2 : Threat Landscape Update by Bob McArdle**\nIn this short update Bob will give an update on todays overall Cybercrime Threat Landscape, followed by Q&A. We'll talk on major changes, as well as the business as usual elements, and a look ahead to what we can expect in the coming months.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-03-14T19:00:00Z",
+              "createdTime": "2022-12-22T17:15:02-05:00",
+              "endTime": "2023-03-14T21:00:00Z",
+              "going": {
+                "totalCount": 35,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938836982",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1944690176",
+                      "member": {
+                        "id": "384176481",
+                        "name": "Shane Casey",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1945510473",
+                      "member": {
+                        "id": "311653274",
+                        "name": "Rishabh",
+                        "memberPhoto": {
+                          "id": "314318698",
+                          "source": "https://secure.meetupstatic.com/photos/member/9/7/2/a/highres_314318698.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1945722743",
+                      "member": {
+                        "id": "296274564",
+                        "name": "Colin Cooper",
+                        "memberPhoto": {
+                          "id": "294569106",
+                          "source": "https://secure.meetupstatic.com/photos/member/7/1/b/2/highres_294569106.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1946239358",
+                      "member": {
+                        "id": "348948808",
+                        "name": "Nathalia Goes De Souza",
+                        "memberPhoto": {
+                          "id": "315080100",
+                          "source": "https://secure.meetupstatic.com/photos/member/4/e/8/4/highres_315080100.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483052",
+              "title": "Cork|Sec 116",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483052/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nOur talks come from our community so if you have an idea for a topic (anything for 10-60 minutes) please email us at DefconCork@gmail.com . Whether you are an experienced presenter, or presenting for your first time - CorkSec is a great venue for it - and we are happy to help you prepare and mentor you.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Cyber Career Speaker Series: February - April 2023**\n\n* CorkSec, in conjunction with Cyber Ireland, is hosting a Cyber Career Speaker Series across 3 evenings in February, March & April 2023.\n* Each time we will chat with 3 panelists from security industry at different points in their careers, to help the audience understand more on their own potential paths in Security - starting in February with those at earlier stages of their careers.\n* Combined with one of CorkSecs traditional technical talks - the night promises to informative, diverse, inspiring and fun. Nothing is off the table! So Come along to hear interesting stories, pick up some tips and meet people from the security industry\n* Our panellists are: John Cronin @ McKesson, Laura O’Donnell @ VMWare, and Louis Coleman @ eSentire\n\n**TALK 2: Container Security Best Practices on AWS by Alaa Saeed**\n\n* In this talk, Alaa will be speaking about the importance of container security and some of the best practices to keep your containers safe. Alongside with a demo of some vulnerability scanning tools provided by AWS like ECR basic scanning and AWS Inspector.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-02-21T19:00:00Z",
+              "createdTime": "2022-12-22T17:14:44-05:00",
+              "endTime": "2023-02-21T21:00:00Z",
+              "going": {
+                "totalCount": 56,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938836959",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1940311397",
+                      "member": {
+                        "id": "341521807",
+                        "name": "Alvaro",
+                        "memberPhoto": {
+                          "id": "307345761",
+                          "source": "https://secure.meetupstatic.com/photos/member/6/4/a/1/highres_307345761.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1941586650",
+                      "member": {
+                        "id": "381156316",
+                        "name": "Andrew",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1941731877",
+                      "member": {
+                        "id": "117636862",
+                        "name": "Brian Higgins",
+                        "memberPhoto": {
+                          "id": "261222925",
+                          "source": "https://secure.meetupstatic.com/photos/member/a/7/a/d/highres_261222925.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1941912655",
+                      "member": {
+                        "id": "381581274",
+                        "name": "Pavlo",
+                        "memberPhoto": {
+                          "id": "313928357",
+                          "source": "https://secure.meetupstatic.com/photos/member/2/0/a/5/highres_313928357.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "290483050",
+              "title": "Cork|Sec 115",
+              "eventUrl": "https://www.meetup.com/corksec/events/290483050/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nOur talks come from our community so if you have an idea for a topic (anything for 10-60 minutes) please email us at DefconCork@gmail.com . Whether you are an experienced presenter, or presenting for your first time - CorkSec is a great venue for it - and we are happy to help you prepare and mentor you.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Zero.Trust ... with a Twist by Paul Horgan**\nZero.Trust. Paul has taken some input from a collaborator and created a new talk about how you should really have Zero.Trust\n\n(Hint: You won't want to miss one, it has some unexpected twists)\n\n**TALK 2: Vortimo OSINT tool demo by Robert McArdle**\n[Vertigo OSINT Tool](https://chrome.google.com/webstore/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) is a very useful browser extension that helps in online investigations, just about any research project, or simply gives you a Browser++. In this informal live demo I'll put it through its paces and explain how it works, and why you'll all be installing it in your Chrome browsers by the end of the evening",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2023-01-10T19:00:00Z",
+              "createdTime": "2022-12-22T17:14:01-05:00",
+              "endTime": "2023-01-10T21:00:00Z",
+              "going": {
+                "totalCount": 22,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1938836924",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1938837389",
+                      "member": {
+                        "id": "377874863",
+                        "name": "Mykola Borshchov",
+                        "memberPhoto": {
+                          "id": "313584817",
+                          "source": "https://secure.meetupstatic.com/photos/member/6/0/f/1/highres_313584817.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1938837535",
+                      "member": {
+                        "id": "240325412",
+                        "name": "Yıldırımcan Suni",
+                        "memberPhoto": {
+                          "id": "272073452",
+                          "source": "https://secure.meetupstatic.com/photos/member/8/2/a/c/highres_272073452.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1938838691",
+                      "member": {
+                        "id": "372067779",
+                        "name": "Andrew Kenneally",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1938840409",
+                      "member": {
+                        "id": "376927033",
+                        "name": "Alex Lyt",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "288525294",
+              "title": "Cork|Sec 114",
+              "eventUrl": "https://www.meetup.com/corksec/events/288525294/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\nTALK 1: Automating Penetration Testing using python - Rishabh Kaushik\nDuring my final year thesis I developed an automation script to automate the penetration testing process including information gathering, scanning, vulnerability analysis, exploitation, post exploitation, and reporting without much user interaction. In this talk I will give a background on the project and demo how I automatically exploited kioptrix, metasploitable 2, and metasploitable 3.\n\nTALK 2: Insights on Modern Cybercrime Attacks - and how everyone is on the front lines of defence - Robert McArdle\nA Threat Landscape update on some of the biggest attack trends today, and how everyone has a role to play in defending from them",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2022-12-12T19:00:00Z",
+              "createdTime": "2022-09-16T11:48:37-04:00",
+              "endTime": "2022-12-12T21:00:00Z",
+              "going": {
+                "totalCount": 29,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1928330655",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1928860401",
+                      "member": {
+                        "id": "117170542",
+                        "name": "willknott",
+                        "memberPhoto": {
+                          "id": "166672172",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/b/c/c/highres_166672172.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1931384246",
+                      "member": {
+                        "id": "372532597",
+                        "name": "Vishal Maan",
+                        "memberPhoto": {
+                          "id": "312813479",
+                          "source": "https://secure.meetupstatic.com/photos/member/8/2/c/7/highres_312813479.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1932203477",
+                      "member": {
+                        "id": "373613703",
+                        "name": "Ricardo Wojciechowski",
+                        "memberPhoto": {
+                          "id": "312942671",
+                          "source": "https://secure.meetupstatic.com/photos/member/a/6/a/f/highres_312942671.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1933195189",
+                      "member": {
+                        "id": "363761927",
+                        "name": "Irek",
+                        "memberPhoto": {
+                          "id": "320187089",
+                          "source": "https://secure.meetupstatic.com/photos/member/6/9/d/1/highres_320187089.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "288525286",
+              "title": "Cork|Sec 113",
+              "eventUrl": "https://www.meetup.com/corksec/events/288525286/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: \"Adventures in API Hacking\" - Ciarán Cotter**\n\nWeb APIs are everywhere these days, and securing them is more important than ever. But how do we attack them? This talk will examine API hacking from a bug bounty perspective, from recon to exploitation, with examples from my past findings to provide some real-world context for these bugs.\n\n**TALK 2: Cyber ranges for skills, training and research – an overview- Donna O’Shea, George O’Mahony (MTU)**\nIn this talk, Donna and George, will present an overview of what a cyber range is and why they are needed for cybersecurity skills, training and research. As part of their talk they will present an overview of Ireland’s only cyber range infrastructure, what services it can provide and the impact it has in terms of delivering world class cybersecurity education and research. A demonstration of MTU/UL/TU Dublin cyber range infrastructure will be provided as part of the talk.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2022-11-15T19:00:00Z",
+              "createdTime": "2022-09-16T11:48:13-04:00",
+              "endTime": "2022-11-15T21:00:00Z",
+              "going": {
+                "totalCount": 47,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1928330616",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1928860389",
+                      "member": {
+                        "id": "117170542",
+                        "name": "willknott",
+                        "memberPhoto": {
+                          "id": "166672172",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/b/c/c/highres_166672172.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1931148135",
+                      "member": {
+                        "id": "266156362",
+                        "name": "Richard Nixon",
+                        "memberPhoto": {
+                          "id": "281774055",
+                          "source": "https://secure.meetupstatic.com/photos/member/3/6/e/7/highres_281774055.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1931263341",
+                      "member": {
+                        "id": "313396124",
+                        "name": "Kieran Caulfield",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1931384206",
+                      "member": {
+                        "id": "372532597",
+                        "name": "Vishal Maan",
+                        "memberPhoto": {
+                          "id": "312813479",
+                          "source": "https://secure.meetupstatic.com/photos/member/8/2/c/7/highres_312813479.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          },
+          {
+            "node": {
+              "id": "288525278",
+              "title": "Cork|Sec 112",
+              "eventUrl": "https://www.meetup.com/corksec/events/288525278/",
+              "description": "Running since June 2013, every month we have 1-2 talks focused on Security or Technology - followed by socialising with like minded people – and you can find out exactly what to expect on the About Us section of our Meetup page. Past talk details are on our wiki on [http://corksec.com/.](http://corksec.com/) All people with any sort of an interest or level of knowledge in Security, Hacking and Emerging Technology are more than welcome to attend and feel free to bring like minded colleagues and friends.\n\nDoors open at 19:00 with talks starting at 19:15.\n\n**TALK 1: Pfsense Overview by Paul Horgan**\nPfsense is much more than a replacement for your ISPs router. Enterprise like features and the only cost is your time.\n\n**TALK 2: Automating the Implementation of a Cybersecurity Governance, Risk and Compliance Programme using Distributed Ledger Technologies - Andrew Kenneally**\nThis talk is on the feasibility of automating the implementation of a programme of cybersecurity governance, risk management and compliance in any given organisation using distributed ledger technologies. Based on the work of an MTU MSc in Cybersecurity student, the hope is to build upon the development and design frameworks that have been established so far with the goal of creating an open source solution to the research problems and having the research itself published in the near future.",
+              "group": {
+                "id": "10823252",
+                "name": "Cork|Sec",
+                "timezone": "Europe/Dublin",
+                "__typename": "Group"
+              },
+              "creatorMember": {
+                "id": "116554552",
+                "__typename": "Member"
+              },
+              "eventHosts": [
+                {
+                  "memberId": "116554552",
+                  "__typename": "EventHost"
+                }
+              ],
+              "feeSettings": null,
+              "venue": {
+                "id": "27405729",
+                "name": "Aye",
+                "address": "9 Anglesea Street",
+                "city": "Cork",
+                "state": "CO",
+                "country": "ie",
+                "__typename": "Venue"
+              },
+              "dateTime": "2022-10-11T19:00:00+01:00",
+              "createdTime": "2022-09-16T11:47:35-04:00",
+              "endTime": "2022-10-11T21:00:00+01:00",
+              "going": {
+                "totalCount": 32,
+                "__typename": "GoingRsvpConnection"
+              },
+              "isAttending": false,
+              "isOnline": false,
+              "eventType": "PHYSICAL",
+              "status": "PAST",
+              "series": null,
+              "featuredEventPhoto": {
+                "id": "460826178",
+                "source": "https://secure.meetupstatic.com/photos/event/6/6/4/2/highres_460826178.jpeg",
+                "__typename": "PhotoInfo"
+              },
+              "rsvps": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1928330560",
+                      "member": {
+                        "id": "116554552",
+                        "name": "Robert McArdle",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1928357674",
+                      "member": {
+                        "id": "12490520",
+                        "name": "Eoghan Murphy",
+                        "memberPhoto": {
+                          "id": "10181930",
+                          "source": "https://secure.meetupstatic.com/photos/member/a/3/c/a/highres_10181930.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1928860352",
+                      "member": {
+                        "id": "117170542",
+                        "name": "willknott",
+                        "memberPhoto": {
+                          "id": "166672172",
+                          "source": "https://secure.meetupstatic.com/photos/member/c/b/c/c/highres_166672172.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1929106991",
+                      "member": {
+                        "id": "268653410",
+                        "name": "Martin Carrasco Godoy",
+                        "memberPhoto": {
+                          "id": "282754113",
+                          "source": "https://secure.meetupstatic.com/photos/member/8/5/4/1/highres_282754113.jpeg",
+                          "__typename": "PhotoInfo"
+                        },
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "1929644321",
+                      "member": {
+                        "id": "371685170",
+                        "name": "Colin Cooper",
+                        "memberPhoto": null,
+                        "__typename": "Member"
+                      },
+                      "__typename": "Rsvp"
+                    },
+                    "__typename": "RsvpEdge"
+                  }
+                ],
+                "__typename": "RsvpConnection"
+              },
+              "actions": ["CHAT", "UPLOAD_PHOTO", "COMMENT"],
+              "rsvpSettings": {
+                "rsvpsClosed": false,
+                "__typename": "RsvpOpenSettings"
+              },
+              "isNetworkEvent": false,
+              "networkEvent": null,
+              "socialLabels": [],
+              "__typename": "Event"
+            },
+            "__typename": "EventEdge"
+          }
+        ],
+        "__typename": "G"
+      },
+      "__typename": "G"
+    }
+  }
+}

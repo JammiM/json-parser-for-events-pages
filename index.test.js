@@ -1,23 +1,50 @@
 "use strict";
 
-import { existsSync, mkdirSync } from "fs";
-import doesTheFolderExist from "./index";
+import {
+  existsSync,
+  mkdirSync,
+  rmdirSync,
+  writeFileSync,
+  unlinkSync,
+} from "fs";
+import { join } from "path";
+import { doesThePathExist, isValidJsonFile, containsJsonFile } from "./index";
 
-describe("Check if the folder exists", () => {
-  const folderPath = "./json-files";
+describe("Check if the folder exists contains a valid JSON file", () => {
+  const folderPath = "./test-json-files";
+  const jsonFile = join(folderPath, "test.json");
 
   beforeAll(() => {
     if (!existsSync(folderPath)) {
       mkdirSync(folderPath);
     }
+
+    if (!existsSync(jsonFile)) {
+      writeFileSync(jsonFile, '{"glossary":"title"}');
+    }
+  });
+
+  afterAll(() => {
+    unlinkSync(jsonFile);
+    rmdirSync(folderPath);
   });
 
   test("Folder should exist", () => {
-    expect(doesTheFolderExist(folderPath)).toBe(true);
+    expect(doesThePathExist(folderPath)).toBe(true);
+  });
+
+  test("JSON file should exist", () => {
+    expect(doesThePathExist(jsonFile)).toBe(true);
+  });
+
+  test("should contain atleast one JSON file", () => {
+    expect(containsJsonFile(folderPath)).toBe(true);
+  });
+
+  test("JSON file should contain valid json", () => {
+    expect(isValidJsonFile(jsonFile)).toBe(true);
   });
 });
-
-describe("Check if the folder contains a valid JSON file", () => {});
 
 describe("Check if the JSON file has atleast one event", () => {});
 
